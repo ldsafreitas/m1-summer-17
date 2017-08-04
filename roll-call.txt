@@ -100,3 +100,4 @@ nsrisakolkit
 Koioc
 fitcat
 anderson-roberto
+squoc
