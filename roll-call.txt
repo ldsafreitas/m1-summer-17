@@ -104,3 +104,5 @@ squoc
 PtrTeixeira
 dmiracle
 Rshpad
+augromero
+nuraalam
