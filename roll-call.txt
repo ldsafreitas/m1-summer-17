@@ -63,7 +63,7 @@ Damdias
 qmsq
 pagdrive
 atifmira
-jpalvis86
+kjpalvis86
 chrisbcl
 nicoleCamoro
 krisztianbudai
@@ -117,3 +117,4 @@ yribeiro
 luisjaramillov
 storrico87
 abhi11verma
+kumarrishav14
