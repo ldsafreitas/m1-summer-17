@@ -51,6 +51,7 @@ MarcoLazzoni
 magdisaeed
 QuablaPhi
 GeolToCs
+
 Jacfal
 BSDevN
 rekhakurup
@@ -122,3 +123,5 @@ kumarrishav14
 PiotrekSEDX
 noisynose
 dev-swapnil
+PiccoloAC
+veiro
