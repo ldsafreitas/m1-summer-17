@@ -51,6 +51,7 @@ MarcoLazzoni
 magdisaeed
 QuablaPhi
 GeolToCs
+
 Jacfal
 BSDevN
 rekhakurup
@@ -122,3 +123,6 @@ kumarrishav14
 PiotrekSEDX
 noisynose
 Gabriel Poltronieri
+dev-swapnil
+PiccoloAC
+veiro
